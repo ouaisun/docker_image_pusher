@@ -1,11 +1,11 @@
---platform=linux/arm64 nginx
---platform=linux/arm64 redis:5.0
---platform=linux/arm64 sanjusss/aliyun-ddns
---platform=linux/arm64 edhongcy/mysql:8.0.12
---platform=linux/arm64 axboy/leanote:20220822
---platform=linux/arm64 hectorqin/reader
+--platform=linux/amd64 nginx
+--platform=linux/amd64 redis:5.0
+--platform=linux/amd64 sanjusss/aliyun-ddns
+--platform=linux/amd64 edhongcy/mysql:8.0.12
+--platform=linux/amd64 axboy/leanote:20220822
+--platform=linux/amd64 hectorqin/reader
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/amd64 xiaoyaliu/alist
