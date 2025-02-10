@@ -1,4 +1,9 @@
-nginx
+--platform=linux/arm64 nginx
+--platform=linux/arm64 redis:5.0
+--platform=linux/arm64 sanjusss/aliyun-ddns
+--platform=linux/arm64 edhongcy/mysql:8.0.12
+--platform=linux/arm64 axboy/leanote:20220822
+--platform=linux/arm64 hectorqin/reader
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
