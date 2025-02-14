@@ -9,4 +9,4 @@
 #xhofe/alist:latest
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist
---platform=linux/amd64 dkturbo
+--platform=linux/amd64 cp0204/dkturbo
