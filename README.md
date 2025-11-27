@@ -24,6 +24,8 @@ https://cr.console.aliyun.com/<br>
 密码（**ALIYUN_REGISTRY_PASSWORD**)<br>
 仓库地址（**ALIYUN_REGISTRY**）<br>
 
+https://cr.console.aliyun.com/cn-beijing/instance/repositories
+
 ![](/doc/用户名密码.png)
 
 
