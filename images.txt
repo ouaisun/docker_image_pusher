@@ -1,12 +1,13 @@
 #支持私库
---platform=linux/amd64 nginx
---platform=linux/amd64 redis:5.0
---platform=linux/amd64 sanjusss/aliyun-ddns
---platform=linux/amd64 edhongcy/mysql:8.0.12
---platform=linux/amd64 axboy/leanote:20220822
---platform=linux/amd64 hectorqin/reader
---platform=linux/amd64 sbwml/alist
+#--platform=linux/amd64 nginx
+#--platform=linux/amd64 redis:5.0
+#--platform=linux/amd64 sanjusss/aliyun-ddns
+#--platform=linux/amd64 edhongcy/mysql:8.0.12
+#--platform=linux/amd64 axboy/leanote:20220822
+#--platform=linux/amd64 hectorqin/reader
+#--platform=linux/amd64 sbwml/alist
 #支持指定架构
---platform=linux/amd64 cp0204/dkturbo:main
---platform=linux/amd64 nyanmisaka/jellyfin
---platform=linux/amd64 maxime1907/filegator
+#--platform=linux/amd64 cp0204/dkturbo:main
+#--platform=linux/amd64 nyanmisaka/jellyfin
+#--platform=linux/amd64 maxime1907/filegator
+--platform=linux/amd64 vaultwarden/server:latest
