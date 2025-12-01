@@ -10,4 +10,4 @@
 #--platform=linux/amd64 cp0204/dkturbo:main
 #--platform=linux/amd64 nyanmisaka/jellyfin
 #--platform=linux/amd64 maxime1907/filegator
---platform=linux/amd64 vaultwarden/server:latest
+--platform=linux/amd64 vaultwarden/server
