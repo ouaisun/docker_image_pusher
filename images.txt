@@ -13,4 +13,7 @@
 #--platform=linux/amd64 vaultwarden/server
 #--platform=linux/amd64 nephatrine/vaultwarden
 #--platform=linux/amd64 star7th/showdoc
---platform=linux/amd64 apkdv/siyuan-unlock
+#--platform=linux/amd64 apkdv/siyuan-unlock
+--platform=linux/amd64 tooandy/navidrome:latest
+--platform=linux/amd64 tooandy/navichina:latest
+
