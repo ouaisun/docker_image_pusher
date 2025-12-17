@@ -17,4 +17,5 @@
 #--platform=linux/amd64 tooandy/navidrome:latest
 #--platform=linux/amd64 tooandy/navichina:latest
 #reaper0x1/bitwarden-portal
---platform=linux/amd64 talebook/talebook
+#--platform=linux/amd64 talebook/talebook
+--platform=linux/amd64 talebook/douban-api-rs
