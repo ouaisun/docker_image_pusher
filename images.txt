@@ -1,5 +1,5 @@
 #支持私库
---platform=linux/amd64 nginx
+#--platform=linux/amd64 nginx
 #--platform=linux/amd64 redis:5.0
 #--platform=linux/amd64 sanjusss/aliyun-ddns
 #--platform=linux/amd64 edhongcy/mysql:8.0.12
@@ -16,5 +16,5 @@
 #--platform=linux/amd64 apkdv/siyuan-unlock
 #--platform=linux/amd64 tooandy/navidrome:latest
 #--platform=linux/amd64 tooandy/navichina:latest
-reaper0x1/bitwarden-portal
-
+#reaper0x1/bitwarden-portal
+--platform=linux/amd64 talebook/talebook
