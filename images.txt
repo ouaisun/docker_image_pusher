@@ -21,4 +21,5 @@
 #--platform=linux/amd64 codercom/code-server
 #--platform=linux/amd64 whyour/qinglong:latest
 #--platform=linux/amd64 phpmyadmin/phpmyadmin:latest
---platform=linux/amd64 zhixinfang/maccms:latest
+#--platform=linux/amd64 zhixinfang/maccms:latest
+--platform=linux/amd64 btpanel/baota
