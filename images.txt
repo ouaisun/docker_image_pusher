@@ -19,7 +19,7 @@
 #--platform=linux/amd64 talebook/talebook
 #--platform=linux/amd64 talebook/douban-api-rs:latest
 #--platform=linux/amd64 codercom/code-server
-#--platform=linux/amd64 whyour/qinglong:latest
+--platform=linux/amd64 whyour/qinglong:2.20.1-debian
 #--platform=linux/amd64 phpmyadmin/phpmyadmin:latest
 #--platform=linux/amd64 zhixinfang/maccms:latest
---platform=linux/amd64 btpanel/baota
+#--platform=linux/amd64 btpanel/baota
